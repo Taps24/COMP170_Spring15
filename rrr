@@ -1,0 +1,15 @@
+// include class libraries or namespace
+using systems
+
+//declare
+namespace  namespace
+{
+  // class declaration
+  class
+  classname
+  // main method declaration
+  public static void Main ()
+  {
+    // statements
+    Consome.Writeline () ;
+  
